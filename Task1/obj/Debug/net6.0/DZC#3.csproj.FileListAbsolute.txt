@@ -1,0 +1,15 @@
+D:\GitLessons\SeminarsC#\DZC#3\bin\Debug\net6.0\DZC#3.exe
+D:\GitLessons\SeminarsC#\DZC#3\bin\Debug\net6.0\DZC#3.deps.json
+D:\GitLessons\SeminarsC#\DZC#3\bin\Debug\net6.0\DZC#3.runtimeconfig.json
+D:\GitLessons\SeminarsC#\DZC#3\bin\Debug\net6.0\DZC#3.dll
+D:\GitLessons\SeminarsC#\DZC#3\bin\Debug\net6.0\DZC#3.pdb
+D:\GitLessons\SeminarsC#\DZC#3\obj\Debug\net6.0\DZC#3.csproj.AssemblyReference.cache
+D:\GitLessons\SeminarsC#\DZC#3\obj\Debug\net6.0\DZC#3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitLessons\SeminarsC#\DZC#3\obj\Debug\net6.0\DZC#3.AssemblyInfoInputs.cache
+D:\GitLessons\SeminarsC#\DZC#3\obj\Debug\net6.0\DZC#3.AssemblyInfo.cs
+D:\GitLessons\SeminarsC#\DZC#3\obj\Debug\net6.0\DZC#3.csproj.CoreCompileInputs.cache
+D:\GitLessons\SeminarsC#\DZC#3\obj\Debug\net6.0\DZC#3.dll
+D:\GitLessons\SeminarsC#\DZC#3\obj\Debug\net6.0\refint\DZC#3.dll
+D:\GitLessons\SeminarsC#\DZC#3\obj\Debug\net6.0\DZC#3.pdb
+D:\GitLessons\SeminarsC#\DZC#3\obj\Debug\net6.0\DZC#3.genruntimeconfig.cache
+D:\GitLessons\SeminarsC#\DZC#3\obj\Debug\net6.0\ref\DZC#3.dll
