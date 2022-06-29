@@ -14,3 +14,4 @@ double FindLength(double f)
     return f;
 }
 FindLength(f);
+// Легкий ужас программиста в 12 строке))
